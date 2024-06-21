@@ -1,0 +1,11 @@
+Nombre: Laura Forero
+Email: laurauis@gmail.com
+... archivo creado localmente
+git status
+
+$git status[D[D[D[D[D[D[D[D[D[D [C[C[C[D[D[Dgit status
+
+[3~[3~[A[A[A[A[A[A[A                                        [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[B[D[D[D[D[D                           [D[D[D[D[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D                                  [B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D                [B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[B                [A[A[A[A[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[CNombre: Laura Forero
+    Email: laurauis@gmail.com
+
+-... archivo creado localmente.
